@@ -78,27 +78,6 @@ pygetwindow>=0.0.9
    - Sequential Notepad automation for each article
    - Live progress monitoring with completion notifications
 
-## 🛠️ Developer Setup (Source Code)
-
-```bash
-# 📂 Clone the project repository
-git clone https://github.com/YOUR_USERNAME/notepad-automation-bot.git
-cd notepad-automation-bot
-
-# 📦 Install required dependencies
-pip install -r requirements.txt
-
-# 🚀 Launch the automation
-python main.py
-```
-
-## 📖 Step-by-Step Usage Guide
-
-1. 🧹 **Pre-flight Check**: Ensure all existing Notepad windows are closed
-2. ▶️ **Execute**: Run either the standalone executable or Python script
-3. 🙅‍♂️ **Hands Off**: Allow the bot complete control (no manual intervention required)
-4. 🛑 **Emergency Brake**: Move mouse cursor to any screen corner for instant termination
-5. 📁 **Harvest Results**: Navigate to `Desktop/tjm-project/posts/` for generated content
 
 ## 📊 Output Structure
 
