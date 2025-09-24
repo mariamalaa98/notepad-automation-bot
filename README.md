@@ -5,12 +5,12 @@ An intelligent automation tool that transforms JSONPlaceholder API data into ind
 
 ## 🎯 What It Does
 
-**Automatically retrieves** 10 blog posts from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)  
- **Launches Notepad** instances for each individual blog post  
- **Simulates human typing** with formatted content (headlines + article body)  
- **Saves documents** to `Desktop/tjm-project/posts/post_<id>.txt`  
- **Handles cleanup** by properly closing Notepad after each operation  
- **Comprehensive error management** covering network issues, system processes, UI focus, file operations, and user interruptions  
+- **Automatically retrieves** 10 blog posts from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)  
+- **Launches Notepad** instances for each individual blog post  
+- **Simulates human typing** with formatted content (headlines + article body)  
+- **Saves documents** to `Desktop/tjm-project/posts/post_<id>.txt`  
+- **Handles cleanup** by properly closing Notepad after each operation  
+- **Comprehensive error management** covering network issues, system processes, UI focus, file operations, and user interruptions  
 
 ## 🚀 Key Capabilities
 
